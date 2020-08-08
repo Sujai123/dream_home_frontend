@@ -1,0 +1,38 @@
+.logo {
+    width: 100px;
+    height: 100px
+}
+
+.header {
+    background: linear-gradient(to right,#ffab40, #ffd180);
+    border: 1px solid black;
+    border-radius: 0px 0px 0px 0px;
+    /* overflow-y: hidden; */
+}
+
+.propertyList {
+    padding: 20px;
+    background-color: #ffb74d;
+    overflow: auto;
+    height: 530px;
+}
+
+.property {
+    background-color: #ffcc80;
+    padding: 20px;
+    width: 100%;
+    min-height: 200px;
+}
+
+.item {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.propertyDesc div {
+    padding-left: 20px;
+}
+
+.image {
+    background: url("../../assets/banner-2.png");
+}
